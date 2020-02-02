@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    line-height: 30px;
+}
+.container{
+    width: 95vw;
+    margin-left: 5vw;
+    margin-top: 20px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+input{
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+}
+input[type = "text"]
+{
+    width: 90%;
+}
+label{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.grt
+{
+    font-size: 20px;
+}
+.command{
+    margin-left: 10px
+}
+.list{
+    margin-right: 20px;
+}
